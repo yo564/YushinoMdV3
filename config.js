@@ -90,7 +90,7 @@ global.pgopay = '085172446692'
 global.plinkaja = '-' //link aja
 global.ppulsa = '0813 6128 1833'
 global.ppulsa2 = '083838186170'
-global.psaweria = 'https://saweria.co/hyuura'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
