@@ -39,38 +39,38 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285172446692', 'leviXd', true],
-['6282131369002', 'victor bot', true]
+['6285172446692', 'levi 😸', true],
+['6285757256591', 'qory 😸', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6282131369002'
 global.nomorown = '6285172446692'
 global.nomorown1 = '6285172446692'
-global.nomorown2 = '6282131369002'
+global.nomorown2 = '6285757256591'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By leviXd'
-global.namebot = 'victor bot'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 victor md'
+global.author = '𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘'
+global.namebot = '𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓'
+global.wm = '© 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓'
 global.media = 'https://telegra.ph/file/b69e2e87cdbaebb7751ce.jpg'
 global.watermark = wm
-global.wm2 = 'victor bot '
+global.wm2 = '𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `victor 𝐗 leviXd`
-global.stickpack = 'victor 𝐗 leviXd'
-global.stickauth = `© Victor MD`
+global.titlebot = `𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘`
+global.stickpack = '𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘'
+global.stickauth = `© 𝚅𝙸𝙲𝚃𝙾𝚁 𝙱𝙾𝚃`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'victor bot'
-global.nameown2 = 'leviXd'
+global.nameown1= 'levi 😸'
+global.nameown2 = 'qory 😸'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
 global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
@@ -304,9 +304,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y="
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '+62 851-7244-6692'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
