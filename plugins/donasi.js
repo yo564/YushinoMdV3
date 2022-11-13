@@ -21,7 +21,7 @@ const catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "retailerId": wm,
 "url": "wa.me/6285172446692"
 },
-"businessOwnerJid": "6285172446692@s.whatsapp.net",
+"businessOwnerJid": "6282131369002@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: ftroli })    
 
@@ -31,6 +31,6 @@ handler.help = ['donasi']
 handler.tags = ['main']
 handler.command = /^(donasi|donate)$/i
 
-handler.limit = true
+handler.limit = false
 
 export default handler
