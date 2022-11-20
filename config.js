@@ -54,18 +54,18 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘'
-global.namebot = '𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓'
-global.wm = 'Yudi_BOT'
+global.author = 'YUDI BOT & XHIMMERMD'
+global.namebot = 'YUDI 𝐁𝐎𝐓'
+global.wm = 'Yudi BOT'
 global.media = 'https://telegra.ph/file/b69e2e87cdbaebb7751ce.jpg'
 global.watermark = wm
-global.wm2 = 'Yudi_𝐁𝐎𝐓 '
+global.wm2 = 'Yudi 𝐁𝐎𝐓 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘`
-global.stickpack = '𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘'
-global.stickauth = `© 𝚅𝙸𝙲𝚃𝙾𝚁 𝙱𝙾𝚃`
+global.titlebot = `YUDI 𝐗 RISKI`
+global.stickpack = 'YUDI 𝐗 RISKI'
+global.stickauth = `© YUDI BOTZ`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
